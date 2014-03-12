@@ -11,8 +11,8 @@ const int blueLedPin = 4;
 
 // Servo
 const int servoPin = 5;
-const int inserted = 170;
-const int removed = 10;
+const int inserted = 140;
+const int removed = 40;
 
 // Button
 const int buttonPin = 6;
